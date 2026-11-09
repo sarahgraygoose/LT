@@ -1,0 +1,821 @@
+[
+  {
+    "id": "lt-2026-10-05",
+    "title": "Weekly LT",
+    "date": "2026-10-05",
+    "displayDate": "5 Oct 2026",
+    "monthLabel": "October 2026",
+    "targetDurationMinutes": 60,
+    "status": "completed",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-10-05-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "completed",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-10-05-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "completed",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ],
+    "completedAt": "2026-10-05T17:00:00.000Z",
+    "archivedAt": "2026-10-05T17:00:00.000Z"
+  },
+  {
+    "id": "lt-2026-10-12",
+    "title": "Weekly LT",
+    "date": "2026-10-12",
+    "displayDate": "12 Oct 2026",
+    "monthLabel": "October 2026",
+    "targetDurationMinutes": 60,
+    "status": "completed",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-10-12-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "completed",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-10-12-finance",
+        "topic": "Strategic Finance",
+        "durationMinutes": 20,
+        "detail": "Strategic capital allocation, budget variance check, and financial governance approvals.",
+        "lead": "Jenny Young",
+        "type": "standing",
+        "status": "completed",
+        "recurringCadence": "monthly",
+        "seriesId": "series-strategic-finance"
+      }
+    ],
+    "completedAt": "2026-10-12T17:00:00.000Z",
+    "archivedAt": "2026-10-12T17:00:00.000Z"
+  },
+  {
+    "id": "lt-2026-10-19",
+    "title": "Weekly LT",
+    "date": "2026-10-19",
+    "displayDate": "19 Oct 2026",
+    "monthLabel": "October 2026",
+    "targetDurationMinutes": 60,
+    "status": "completed",
+    "location": "Executive Room A & Virtual",
+    "notes": "Standing Monday Weekly LT Session",
+    "agendaItems": [
+      {
+        "id": "item-2026-10-19-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "completed",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-10-19-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "completed",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ],
+    "completedAt": "2026-10-19T17:00:00.000Z",
+    "archivedAt": "2026-10-19T17:00:00.000Z"
+  },
+  {
+    "id": "lt-2026-10-26",
+    "title": "Weekly LT",
+    "date": "2026-10-26",
+    "displayDate": "26 Oct 2026",
+    "monthLabel": "October 2026",
+    "targetDurationMinutes": 60,
+    "status": "completed",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-10-26-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "completed",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      }
+    ],
+    "completedAt": "2026-10-26T17:00:00.000Z",
+    "archivedAt": "2026-10-26T17:00:00.000Z"
+  },
+  {
+    "id": "lt-2026-11-02",
+    "title": "Weekly LT",
+    "date": "2026-11-02",
+    "displayDate": "2 Nov 2026",
+    "monthLabel": "November 2026",
+    "targetDurationMinutes": 60,
+    "status": "completed",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-11-02-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "completed",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-11-02-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "completed",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ],
+    "completedAt": "2026-11-02T17:00:00.000Z",
+    "archivedAt": "2026-11-02T17:00:00.000Z"
+  },
+  {
+    "id": "lt-2026-11-09",
+    "title": "Weekly LT",
+    "date": "2026-11-09",
+    "displayDate": "9 Nov 2026",
+    "monthLabel": "November 2026",
+    "targetDurationMinutes": 60,
+    "status": "active",
+    "location": "Executive Room A & Virtual",
+    "notes": "Standing Monday Weekly LT Session (Current)",
+    "agendaItems": [
+      {
+        "id": "item-2026-11-09-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-11-09-finance",
+        "topic": "Strategic Finance",
+        "durationMinutes": 20,
+        "detail": "Strategic capital allocation, budget variance check, and financial governance approvals.",
+        "lead": "Jenny Young",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "monthly",
+        "seriesId": "series-strategic-finance"
+      }
+    ]
+  },
+  {
+    "id": "lt-2026-11-16",
+    "title": "Weekly LT",
+    "date": "2026-11-16",
+    "displayDate": "16 Nov 2026",
+    "monthLabel": "November 2026",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-11-16-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-11-16-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2026-11-23",
+    "title": "Weekly LT",
+    "date": "2026-11-23",
+    "displayDate": "23 Nov 2026",
+    "monthLabel": "November 2026",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-11-23-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      }
+    ]
+  },
+  {
+    "id": "lt-2026-11-30",
+    "title": "Weekly LT",
+    "date": "2026-11-30",
+    "displayDate": "30 Nov 2026",
+    "monthLabel": "November 2026",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-11-30-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-11-30-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2026-12-07",
+    "title": "Weekly LT",
+    "date": "2026-12-07",
+    "displayDate": "7 Dec 2026",
+    "monthLabel": "December 2026",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-12-07-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-12-07-finance",
+        "topic": "Strategic Finance",
+        "durationMinutes": 20,
+        "detail": "Strategic capital allocation, budget variance check, and financial governance approvals.",
+        "lead": "Jenny Young",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "monthly",
+        "seriesId": "series-strategic-finance"
+      }
+    ]
+  },
+  {
+    "id": "lt-2026-12-14",
+    "title": "Weekly LT",
+    "date": "2026-12-14",
+    "displayDate": "14 Dec 2026",
+    "monthLabel": "December 2026",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-12-14-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-12-14-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2026-12-21",
+    "title": "Weekly LT",
+    "date": "2026-12-21",
+    "displayDate": "21 Dec 2026",
+    "monthLabel": "December 2026",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-12-21-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      }
+    ]
+  },
+  {
+    "id": "lt-2026-12-28",
+    "title": "Weekly LT",
+    "date": "2026-12-28",
+    "displayDate": "28 Dec 2026",
+    "monthLabel": "December 2026",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2026-12-28-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2026-12-28-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-01-04",
+    "title": "Weekly LT",
+    "date": "2027-01-04",
+    "displayDate": "4 Jan 2027",
+    "monthLabel": "January 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-01-04-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2027-01-04-finance",
+        "topic": "Strategic Finance",
+        "durationMinutes": 20,
+        "detail": "Strategic capital allocation, budget variance check, and financial governance approvals.",
+        "lead": "Jenny Young",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "monthly",
+        "seriesId": "series-strategic-finance"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-01-11",
+    "title": "Weekly LT",
+    "date": "2027-01-11",
+    "displayDate": "11 Jan 2027",
+    "monthLabel": "January 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-01-11-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2027-01-11-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-01-18",
+    "title": "Weekly LT",
+    "date": "2027-01-18",
+    "displayDate": "18 Jan 2027",
+    "monthLabel": "January 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-01-18-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-01-25",
+    "title": "Weekly LT",
+    "date": "2027-01-25",
+    "displayDate": "25 Jan 2027",
+    "monthLabel": "January 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-01-25-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2027-01-25-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-02-01",
+    "title": "Weekly LT",
+    "date": "2027-02-01",
+    "displayDate": "1 Feb 2027",
+    "monthLabel": "February 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-02-01-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2027-02-01-finance",
+        "topic": "Strategic Finance",
+        "durationMinutes": 20,
+        "detail": "Strategic capital allocation, budget variance check, and financial governance approvals.",
+        "lead": "Jenny Young",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "monthly",
+        "seriesId": "series-strategic-finance"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-02-08",
+    "title": "Weekly LT",
+    "date": "2027-02-08",
+    "displayDate": "8 Feb 2027",
+    "monthLabel": "February 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-02-08-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2027-02-08-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-02-15",
+    "title": "Weekly LT",
+    "date": "2027-02-15",
+    "displayDate": "15 Feb 2027",
+    "monthLabel": "February 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-02-15-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-02-22",
+    "title": "Weekly LT",
+    "date": "2027-02-22",
+    "displayDate": "22 Feb 2027",
+    "monthLabel": "February 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-02-22-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2027-02-22-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-03-01",
+    "title": "Weekly LT",
+    "date": "2027-03-01",
+    "displayDate": "1 Mar 2027",
+    "monthLabel": "March 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-03-01-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2027-03-01-finance",
+        "topic": "Strategic Finance",
+        "durationMinutes": 20,
+        "detail": "Strategic capital allocation, budget variance check, and financial governance approvals.",
+        "lead": "Jenny Young",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "monthly",
+        "seriesId": "series-strategic-finance"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-03-08",
+    "title": "Weekly LT",
+    "date": "2027-03-08",
+    "displayDate": "8 Mar 2027",
+    "monthLabel": "March 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-03-08-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2027-03-08-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-03-15",
+    "title": "Weekly LT",
+    "date": "2027-03-15",
+    "displayDate": "15 Mar 2027",
+    "monthLabel": "March 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-03-15-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-03-22",
+    "title": "Weekly LT",
+    "date": "2027-03-22",
+    "displayDate": "22 Mar 2027",
+    "monthLabel": "March 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-03-22-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      },
+      {
+        "id": "item-2027-03-22-roadmap",
+        "topic": "Q4 Product Roadmap, Results & Delivery Milestone Check",
+        "durationMinutes": 25,
+        "detail": "Review cross-portfolio commitments across engineering and product streams, key OKRs, and delivery milestone health.",
+        "lead": "Rutvi Patel",
+        "type": "deep-dive",
+        "status": "scheduled",
+        "recurringCadence": "bi-weekly",
+        "seriesId": "series-product-roadmap"
+      }
+    ]
+  },
+  {
+    "id": "lt-2027-03-29",
+    "title": "Weekly LT",
+    "date": "2027-03-29",
+    "displayDate": "29 Mar 2027",
+    "monthLabel": "March 2027",
+    "targetDurationMinutes": 60,
+    "status": "upcoming",
+    "location": "Executive Boardroom & Virtual",
+    "agendaItems": [
+      {
+        "id": "item-2027-03-29-ops-gov",
+        "topic": "Weekly Operations & Governance Review",
+        "durationMinutes": 15,
+        "detail": "Weekly leadership operational priorities, governance reviews, and executive decisions.",
+        "lead": "James Rooke",
+        "type": "standing",
+        "status": "scheduled",
+        "recurringCadence": "weekly",
+        "seriesId": "series-ops-gov"
+      }
+    ]
+  }
+]

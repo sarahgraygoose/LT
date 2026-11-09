@@ -1,0 +1,8 @@
+{
+  "name": "P&S Leadership Governance Hub",
+  "description": "Executive governance dashboard for Products & Services Leadership Team: agenda planner, distribution rules matrix, and live syncing contractor master directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
